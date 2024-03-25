@@ -130,6 +130,6 @@ int isWordGuessed(char word[], char guessedLetters[], int wordLength) {
             return 0;
         }
     }
-    return 0;
+    return 1;
 }
 
